@@ -3,11 +3,16 @@
 Starter app for my React projects that contains the bare essentials:
 
 👉[Vite](https://vitejs.dev/) for bundling and dev server.
+
 👉[Vitest](https://vitest.dev/) as a modern alternative to Jest.
+
 👉[React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for testing React components.
-👉[Chakra UI](https://chakra-ui.com/) for UI. With tools like these available, there isn't a
+
+👉[Chakra UI](https://chakra-ui.com/) for UI. With tools like these available, there isn't any
 reason one can't build a design system from the word go. Dark mode out-the-box.
+
 👉[TypeScript](https://www.typescriptlang.org/) Okay, this isn't essential, but why not?
+
 👉Basic CI using [GitHub Actions](https://github.com/actions)
 
 No server, routing, e2e tests ... yet.
