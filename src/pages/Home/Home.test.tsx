@@ -3,5 +3,5 @@ import { render, screen } from "@testing-library/react";
 
 test("Home renders", async () => {
   render(<Home />);
-  expect(screen.getByText(/Home/i)).toBeInTheDocument();
+  expect(screen.getByText(/Go on, add some content/i)).toBeInTheDocument();
 });
